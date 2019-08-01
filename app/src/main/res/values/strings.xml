@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+
+    <string name="app_name" translatable="false">安卓动画大集合</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="hello" translatable="false">Hello world!</string>
+    <string name="BaseAnimation" translatable="false">BaseAnimation!</string>
+    <string name="activity_title" translatable="false">FlipView Demo By Aphid Mobile</string>
+    <string name="item_about" translatable="false">about</string>
+    <string name="hide_fragment" translatable="false">Hide Fragment</string>
+    <string name="show_fragment" translatable="false">Show Fragment</string>
+
+    <item name="tag_async_image_view_position" type="id"/>
+
+    <!-- 三级导航相关start -->
+    <string name="third_titlebar_text" translatable="false">声波支付</string>
+    <string name="third_search" translatable="false">搜索中</string>
+    <string name="third_refresh" translatable="false">刷新</string>
+    <string name="third_hint1" translatable="false">手机靠近一点,再靠近一点</string>
+    <string name="third_hint2" translatable="false">请收款方保持在感应区页面</string>
+    <string name="third_timeout" translatable="false">未找到付款人，请重新尝试！</string>
+    <string name="order_num" translatable="false">订   单   号:</string>
+    <string name="order_num2" translatable="false">123456789</string>
+    <string name="order_num3" translatable="false">订单号:123456789</string>
+    <string name="order_num4" translatable="false">订单号:</string>
+    <string name="order_date" translatable="false">收款时间: </string>
+    <string name="order_collectInfo" translatable="false">收款方: </string>
+    <string name="order_paymentInfo" translatable="false">付款方: </string>
+    <string name="order_serial_num" translatable="false">流水号: </string>
+    <string name="order_sum" translatable="false">交易金额: </string>
+    <string name="serach_payment" translatable="false">找到收款人，请等待付款!</string>
+    <string name="total_money" translatable="false">收款金额:</string>
+    <string name="total_money2" translatable="false">100元</string>
+    <string name="total_money3" translatable="false">收款金额:100元</string>
+    <string name="hint_success" translatable="false">收款成功!</string>
+    <string name="payment1" translatable="false">付   款   人:</string>
+    <string name="payment2" translatable="false">王某某</string>
+    <string name="paydate1" translatable="false">到账时间:</string>
+    <string name="paydate2" translatable="false">2014年1月15日</string>
+    <string name="hint_Thank" translatable="false">THANK YOU</string>
+    <string name="hint_paymethod" translatable="false">只要客人手机上安装有中银易付客户端,即可使用声波支付</string>
+    <string name="hint_paycondition" translatable="false">声波支付条件</string>
+    <string name="hint_name" translatable="false">第一个引导页面</string>
+    <string name="hint_payfail" translatable="false">收款失败,请重新尝试...</string>
+    <string name="hint_payagain" translatable="false">重新收款</string>
+    <string name="hint_cancel" translatable="false">取  消</string>
+    <string name="hint_confirm" translatable="false">确  认</string>
+    <!-- 三级导航相关end -->
+
+
+    <!-- ListViewsx效果集合Start -->
+    <string name="menu_donate" translatable="false">Buy me a beer!</string>
+    <string name="menu_beer" translatable="false">Buy me a beer!</string>
+    <string name="menu_beer2" translatable="false">Buy me 2 beers!</string>
+    <string name="menu_beer3" translatable="false">Buy me 5 beers!</string>
+    <string name="menu_beer4" translatable="false">Buy me 10 beers!</string>
+    <string name="menu_github" translatable="false">Github</string>
+    <string name="googlecards" translatable="false">Google cards example</string>
+    <string name="gridview" translatable="false">GridView example</string>
+    <string name="appearance" translatable="false">Appearance Animation</string>
+    <string name="limit" translatable="false">Limit to 2</string>
+    <string name="itemmanipulation" translatable="false">Item Manipulation</string>
+    <string name="gridviewexample" translatable="false">GridView example</string>
+    <string name="draganddrop" translatable="false">Drag and Drop</string>
+    <string name="swipedismiss" translatable="false">Swipe to dismiss</string>
+    <string name="animateremoval" translatable="false">Animate dismiss</string>
+    <string name="removeselected" translatable="false">Remove selected</string>
+    <string name="expandablelistitemadapter" translatable="false">Expand list items</string>
+    <string name="itemdeleted" translatable="false">Item deleted</string>
+    <string name="taptoundo" translatable="false">Tap to undo</string>
+    <string name="explainexpand" translatable="false">Tap on cards to expand or collapse them</string>
+    <string name="expandorcollapsecard" translatable="false">This is card number %d</string>
+
+    <plurals name="countdown_seconds" translatable="false">
+        <item quantity="one" translatable="false">Dismissing in 1...</item>
+        <item quantity="other" translatable="false">Dismissing in %d...</item>
+    </plurals>
+
+    <string name="countdown_dismissing" translatable="false">Dismissing</string>
+
+    <!-- ListViewsx效果集合End -->
+
+
+    <!-- circlemenu -->
+    <string name="facebook" translatable="false">Facebook</string>
+    <string name="twitter" translatable="false">Twitter</string>
+    <string name="google" translatable="false">Google</string>
+    <string name="linkedin" translatable="false">LinkedIn</string>
+    <string name="wordpress" translatable="false">Wordpress</string>
+    <string name="myspace" translatable="false">Myspace</string>
+    <string name="start_app" translatable="false">Starting application:</string>
+    <!-- circlemenu -->
+
+
+    <!-- 计算器Start -->
+    <string name="num1" translatable="false">1</string>
+    <string name="num2" translatable="false">2</string>
+    <string name="num3" translatable="false">3</string>
+    <string name="num4" translatable="false">4</string>
+    <string name="num5" translatable="false">5</string>
+    <string name="num6" translatable="false">6</string>
+    <string name="num7" translatable="false">7</string>
+    <string name="num8" translatable="false">8</string>
+    <string name="num9" translatable="false">9</string>
+    <string name="num0" translatable="false">0</string>
+    <string name="pi" translatable="false">π</string>
+    <string name="e" translatable="false">e</string>
+    <string name="and" translatable="false">&amp;</string>
+    <string name="or" translatable="false">|</string>
+    <string name="add" translatable="false">+</string>
+    <string name="sub" translatable="false">-</string>
+    <string name="multiply" translatable="false">×</string>
+    <string name="divide" translatable="false">÷</string>
+    <string name="sqrt" translatable="false">sqrt</string>
+    <string name="cbrt" translatable="false">cbrt</string>
+    <string name="dot" translatable="false">.</string>
+    <string name="equals" translatable="false">=</string>
+    <string name="clear" translatable="false">c</string>
+    <string name="lparenthesis" translatable="false">(</string>
+    <string name="rparenthesis" translatable="false">)</string>
+    <string name="remainder" translatable="false">%</string>
+    <string name="backspace" translatable="false">←</string>
+    <string name="comma" translatable="false">,</string>
+    <string name="sin" translatable="false">sin</string>
+    <string name="cos" translatable="false">cos</string>
+    <string name="tan" translatable="false">tan</string>
+    <string name="log" translatable="false">log</string>
+    <string name="more" translatable="false">…</string>
+    <string name="indepCalText" translatable="false">计算</string>
+    <string name="indepClearText" translatable="false">清空</string>
+    <string name="helpabout" translatable="false">帮助/关于</string>
+    <string name="morefuncs" translatable="false">更多操作</string>
+    <string name="helpContent" translatable="false">	    运算符说明:\n
+	    \t+: 加号\n
+	    \t-: 减号/负号\n
+	    \t*: 乘号,亦可写作×\n
+	    \t/: 除号,亦可写作÷\n
+	    \t%: 取余\n
+	    \t&amp;: 按位与\n
+	    \t|: 按位或\n
+	    \t^: 按位异或\n
+	    \t~: 按位非,其前面没有操作数\n
+	    
+	    
+	 \n常数说明:\n
+	 	\tπ: 值为3.141592653589793,亦可写作PI\n
+	 	\te: 值为2.718281828459045,亦可写作E\n
+	 \n功能说明(涉及度数的单位均为角度):\n
+	  	\tsin: 正弦\n
+	  	\tasin: 反正弦\n
+	  	\tcos: 余弦\n
+	  	\tacos: 反余弦\n
+	  	\ttan: 正切\n
+	  	\tatan: 反正切\n
+	  	\tabs: 绝对值\n
+	  	\texp: e的指定数次幂\n
+	  	\tln: 以e为底,n的对数\n
+	  	\tlog: 以10为底,n的对数\n
+	  	\tpow: a的b次幂,第一个操作数为a,第二个操作数为b,中间用逗号隔开\n</string>
+    <string name="aboutContent" translatable="false">	    本计算器由Freish制作\n\n欢迎使用\n</string>
+    <!-- 计算器End -->
+
+
+    <!-- 自定义进度条Start -->
+    <string name="color" translatable="false">自定义颜色进度条</string>
+    <string name="left" translatable="false">自左向右的进度条</string>
+    <string name="right" translatable="false">自右向左的进度条</string>
+    <string name="indeter" translatable="false">不确定的进度条</string>
+    <!-- 自定义进度条End -->
+
+
+    <!--  -->
+    <string name="gridview1" translatable="false">九宫格1</string>
+    <string name="gridview2" translatable="false">九宫格2</string>
+    <string name="gridview3" translatable="false">九宫格3</string>
+    <string name="gridview4" translatable="false">九宫格4</string>
+    <string name="gridview5" translatable="false">九宫格5</string>
+    <string name="gridview6" translatable="false">九宫格6</string>
+    <string name="gridview7" translatable="false">九宫格7</string>
+    <string name="gridview8" translatable="false">九宫格8</string>
+    <string name="gridview9" translatable="false">九宫格9</string>
+    <!--  -->
+
+
+    <!-- 翻页效果的listView ListForPage  Start -->
+    <string name="textLeft" translatable="false">Preview</string>
+    <string name="textRight" translatable="false">Next</string>
+    <string name="total" translatable="false">Total</string>
+    <string name="current" translatable="false">Current</string>
+    <!-- 翻页效果的listView ListForPage  End -->
+
+
+    <!-- 小米启动 -->
+    <string name="ani_time" translatable="false">350</string>
+    <string name="ani_time2" translatable="false">700</string>
+    <!-- 小米启动 -->
+
+
+    <!-- TabHostMovie -->
+    <string name="up" translatable="false">上一页</string>
+    <string name="next" translatable="false">下一页</string>
+    <!-- TabHostMovie -->
+
+
+    <!-- 绘制图表start -->
+    <!--<string name="title_section1" translatable="false">Line Chart</string>-->
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <!-- 绘制图表end -->
+
+
+    <!-- 手势密码 -->
+    <string name="gestureTitle" translatable="false">手势密码</string>
+    <string name="passwordistooshortinputagain" translatable="false">密码太短,请重新绘制!</string>
+    <string name="gesturemanager" translatable="false">手势解锁</string>
+    <string name="setpassword" translatable="false">手势密码设置</string>
+    <string name="originalPasswordInputError" translatable="false">原始密码绘制错误，请重新绘制</string>
+    <string name="setDefaultPassword" translatable="false">请绘制原手势密码</string>
+    <string name="newPasswordInput" translatable="false">请绘制新密码</string>
+    <string name="newPasswordInputAgain" translatable="false">请再次绘制新密码</string>
+    <string name="newPasswordInputError" translatable="false">与上次绘制的新密码不一致，请重新绘制</string>
+    <string name="passwordInputError" translatable="false">密码绘制错误,请重新绘制</string>
+    <string name="setgesturepassword" translatable="false">请绘制手势密码</string>
+    <string name="fogetgesturepassword" translatable="false">忘记手势密码？</string>
+
+     <!--custom_Flodlayout 用到的资源 -->
+    <string name="year" translatable="false">Year</string>
+    <string name="location" translatable="false">Location</string>
+    <string name="action_contact" translatable="false">Contact</string>
+    <string name="title_section1" translatable="false">Parallax View</string>
+    <string name="title_section4" translatable="false">Parallax List Background</string>
+    <string name="title_section5" translatable="false">OverParallax Background</string>
+    <string name="title_invert_transformer" translatable="false">Invert Transformer</string>
+    <string name="title_transform_right" translatable="false">RightAngle Transformer</string>
+    <string name="title_transform_combi" translatable="false">Transformer Combination</string>
+    <string name="peek" translatable="false">Peek a boo!</string>
+    <string name="bacon" translatable="false">Bacon ipsum dolor sit amet ut t-bone ham hock pariatur. Ex aliquip est dolore strip steak enim. Fugiat reprehenderit tenderloin ham hock. Pork minim chicken, jowl do strip steak short loin meatball bacon doner proident nulla eiusmod. Elit veniam beef sunt.</string>
+    <string name="title_title" translatable="false">TitleFlowIndicator</string>
+    <string name="circle_title" translatable="false">CircleFlowIndicator</string>
+    <string name="diff_title" translatable="false">DifferentViewFlow</string>
+    <string name="async_title" translatable="false">AsyncDataLoading</string>
+
+    <string name="loading" translatable="false">Loading</string>
+
+</resources>

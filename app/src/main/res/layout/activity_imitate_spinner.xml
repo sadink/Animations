@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin">
+
+    <EditText
+        android:id="@+id/et_number"
+        android:layout_width="200dip"
+        android:layout_height="wrap_content" />
+
+    <ImageButton
+        android:id="@+id/ib_down_arrow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/et_number"
+        android:layout_alignRight="@id/et_number"
+        android:layout_alignTop="@id/et_number"
+        android:layout_marginRight="5dip"
+        android:background="@drawable/icon_spinner_down_arrow" />
+
+</RelativeLayout>
